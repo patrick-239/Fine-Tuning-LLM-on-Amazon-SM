@@ -1,0 +1,5 @@
+streamlit
+langchain
+wikipedia
+numexpr
+opensearch-py==2.3.2
